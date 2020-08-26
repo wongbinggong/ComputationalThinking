@@ -1,6 +1,5 @@
 # [Computational Thinking](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4)
 
----
 Computational thinking builds on the power and limits of computing processes, whether they are executed by a human or by a machine.
 
 Computational methods and models give us the courage to solve problems and design systems that no one of us would be capable of tackling alone. 
